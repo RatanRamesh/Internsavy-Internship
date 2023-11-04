@@ -45,10 +45,10 @@ To access and review the solutions, please follow these steps:
 
 ## Additional Information
 
-- Each task is organized into one folder Assignment where all the tasks src code has been shared with a self-explanatory name.
+- Each task is organized into one folder Assignment1 where all the tasks src code has been shared with a self-explanatory name.
 - Detailed documentation for each task can be found within the respective task's folder.
 - The solutions are well-commented for better understanding.
-- Note: task 1 has a word list txt file, which has also shared.
+- Note: task 1 has a word list txt file, which has also shared & also task 2's hangman "json-simple-1.1.1.jar" library also attached.
 
 ## Support and Contact
 
