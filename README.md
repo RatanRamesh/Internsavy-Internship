@@ -33,7 +33,7 @@ To access and review the solutions, please follow these steps:
 
 1. Clone the repository to your local machine:
    
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/RatanRamesh/Internsavy-Internship.git
    
 
 2. Navigate to the directory where you cloned the repository:
@@ -45,7 +45,7 @@ To access and review the solutions, please follow these steps:
 
 ## Additional Information
 
-- Each task is organized into its own folder with a self-explanatory name.
+- Each task is organized into one folder with a self-explanatory name.
 - Detailed documentation for each task can be found within the respective task's folder.
 - The solutions are well-commented for better understanding.
 
@@ -53,3 +53,6 @@ To access and review the solutions, please follow these steps:
 
 If you have any questions or need further clarification regarding the solutions or tasks, please feel free to reach out to me:
 Thank you for reviewing these solutions. Your feedback and comments are greatly appreciated.
+
+Contact:
+ratanramesh.697@gmail.com
